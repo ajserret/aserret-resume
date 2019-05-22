@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afcb67d57f3c5afdb4d3e20757b3434f",
+    "revision": "10c83312339338f8a8b00421e3956355",
     "url": "/aserret-resume/index.html"
   },
   {
-    "revision": "76f0bffe5ff7c09f07be",
+    "revision": "85bed66cffa3b40eaa90",
     "url": "/aserret-resume/static/css/main.5facb584.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aserret-resume/static/js/2.59b786aa.chunk.js"
   },
   {
-    "revision": "76f0bffe5ff7c09f07be",
-    "url": "/aserret-resume/static/js/main.177f15a6.chunk.js"
+    "revision": "85bed66cffa3b40eaa90",
+    "url": "/aserret-resume/static/js/main.51b232d6.chunk.js"
   },
   {
     "revision": "082c2afa616da676cf0b",
