@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aserret-resume/precache-manifest.7bbfb619fdc71e58094136ccf98b6676.js"
+  "/aserret-resume/precache-manifest.8fe899eb761d521b0ad364d6b395078c.js"
 );
 
 self.addEventListener('message', (event) => {
