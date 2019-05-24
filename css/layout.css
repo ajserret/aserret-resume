@@ -538,6 +538,10 @@ ul#nav li.current a { color: #7623ff; }
 	filter:alpha(opacity=100);
 }
 
+.arrow_b9bbag-o_O-arrow__direction__right_174p6a9-o_O-arrow__size__medium_9f7hgo svg{ fill:#ff7b00 !important; }
+.arrow_b9bbag-o_O-arrow__direction__left_shhpn5-o_O-arrow__size__medium_9f7hgo svg{ fill:#ff7b00 !important; }
+.close_1x3s325 svg{ fill:#ff7b00 !important; }
+
 /* popup modal */
 .popup-modal {
 	max-width: 550px;

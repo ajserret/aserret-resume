@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Alex Serret",
-    "occupation":"Creative Developer",
-    "description":"My passion is merging design and development into visually appealing and technically impressive projects. I am currently looking to grow in a top-tier engineering environment",
+    "occupation":"Developer and Designer",
+    "description":"and my passion is merging these two disciplines into visually appealing and technically impressive projects. I am currently looking to grow in a top-tier engineering environment",
     "image":"profilepic.jpg",
-    "bio":"My family likes to joke that I was born with a Nintendo controller in my hand. I've been a gamer since I was very young and although I haven't done much game development work outside of school, I have maintained a passion for mixed media. The integration of code and art has long been a primary interest of mine, though I feel perfectly comfortable being fully in one world or the other. I am currently looking to learn much more about front-end development while doing more artistic design projects on the side for friends and family. I enjoy exploring new things in the most general sense. I am a horror aficionado. I am also a craft beer enthusiast. :)",
+    "bio":"Since early childhood I've been a gamer. My family likes to joke that I was born with a Nintendo controller in my hand. Unfortunately my work in game development hasn't extended beyond school, but fortunately I have maintained a passion for mixed media. The integration of code and art has long been a primary interest of mine with a high degree of comfort in either world. Currently I am looking to learn much more about front-end development while doing more artistic design projects on the side for friends and family. Outside of work I'm an explorer of new experiences, a horror aficionado, and a craft beer enthusiast among other things. :)",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "ajsora@gmail.com",
     "phone": "610-724-1491",
@@ -40,13 +40,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"I am skilled in HTML5 with its associated scripting languages and working with integrated copy, graphics and video. Extensive experience with Adobe Creative Suite and After Effects.",
+    "skillmessage":"Skilled in HTML5 with its associated scripting languages and working with integrated copy, graphics, and video. Extensive experience with Adobe Creative Suite and After Effects.",
     "education":[
       {
         "school":"Drexel University – Philadelphia, PA",
         "degree":"Bachelor of Science in Design Arts",
         "graduated":"Class of 2008",
-        "description":" At Drexel I learned the foundations of web development, user interaction design, graphic design, programming, modeling, animation, visual effects and game design. My final project was an interactive site for the National Park System of New Jersey, featuring 3D rendered interactive map of park grounds complete with informational pop-ups, educational videos and 360 views of park and building interiors. I also minored in Fine Arts with a concentration on photography and screen printing."
+        "description":" At Drexel I learned the foundations of web development, user interaction design, graphic design, programming, modeling, animation, visual effects, and game design. My final project was an interactive site for the National Park System of New Jersey, featuring 3D rendered interactive map of park grounds complete with informational pop-ups, educational videos, and 360 views of park and building interiors. I also minored in Fine Arts with a concentration on photography and screen printing."
       }
     ],
     "work":[
@@ -54,7 +54,7 @@
         "company":"Sizmek (Formerly PointRoll)",
         "title":"Creative Developer",
         "years":"May 2010 – Present",
-        "description":"Within my first year at PointRoll I was promoted from the Asset Intake team to my current role based on successfully establishing a process for reviewing and debugging rich media advertising units prior to deployment. As a Creative Developer I am responsible for producing web-based ads using HTML, CSS, JavaScript (Vanilla.JS), and formerly Flash, ensuring client guidelines are incorporated into web banners, polite banners, expandable advertisements, takeovers, interface designs and design elements. As part of my job I often participate in brainstorming sessions with extended creative teams to develop design ideas for interactive web pages and modules. My team focuses on automotive clients such as Ford, Chrysler, Nissan and Toyota, who require extremely quick turn-around and low QA issue rates."
+        "description":"Within my first year at PointRoll I was promoted from the Asset Intake team to my current role after successfully establishing a process for reviewing and debugging rich media advertising units. As a Creative Developer I am responsible for producing web-based ads (web banners, polite banners, expandable advertisements, takeovers, etc.) using HTML, CSS, JavaScript, and formerly Flash. Another primary duty of mine is ensuring client guidelines are incorporated into interface designs and design elements. As part of my job I often participate in brainstorming sessions with extended creative teams to develop design ideas for interactive web pages and modules. My team focuses on automotive clients such as Ford, Chrysler, Nissan and Toyota, who require extremely quick turn-around and low QA issue rates."
       },
       {
         "company":"Iroko Pharmaceuticals",
@@ -142,13 +142,13 @@
         "thumbH": 1,
         "caption": "A pharmaceutical logo I designed."
       },
-    "personals2":
-      {
-        "src": "images/portfolio/gaots.jpg",
-        "thumbW": 10,
-        "thumbH": 7,
-        "caption": "Golden Apple of the Sun - A project I did with a friend for a science meets art competition."
-      },
+      "personals2":
+        {
+          "src": "images/portfolio/trinity.jpg",
+          "thumbW": 1,
+          "thumbH": 1,
+          "caption": "A tattoo I designed based on Celtic symbology."
+        },
     "personals3":
       {
         "src": "images/portfolio/vendetta.jpg",
@@ -183,7 +183,21 @@
                 "thumbW": 1,
                 "thumbH": 1,
                 "caption": "A logo I designed for a friends' contracting company."
-              }
+              },
+              "personals8":
+                {
+                  "src": "images/portfolio/arrow.jpg",
+                  "thumbW": 1,
+                  "thumbH": 1,
+                  "caption": "Another tattoo I designed based on Celtic symbology."
+                },
+                "personals9":
+                  {
+                    "src": "images/portfolio/gaots.jpg",
+                    "thumbW": 10,
+                    "thumbH": 7,
+                    "caption": "Golden Apple of the Sun - A project I did with a friend for a science meets art competition."
+                  }
   },
   "testimonials":{
     "testimonials":[
